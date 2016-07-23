@@ -20,7 +20,7 @@
             android:orientation="vertical">
 
             <TextView
-                android:id="@+id/textView"
+                android:id="@+id/title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
@@ -28,7 +28,7 @@
                 android:text="Rate John's Android Studio Tutorials" />
 
             <TextView
-                android:id="@+id/textView1"
+                android:id="@+id/dialog_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="66dp"
@@ -42,7 +42,7 @@
                 android:spinnerMode="dialog" />
 
             <TextView
-                android:id="@+id/textView2"
+                android:id="@+id/dropdown_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="66dp"
